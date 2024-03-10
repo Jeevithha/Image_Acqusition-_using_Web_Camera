@@ -28,7 +28,6 @@ Use cv2.imshow to show the video
 End the program and close the output video window by pressing 'q'
 
 ## Program:
-``` Python
 ### Developed By:jeevitha s
 ### Register No:212222100016
 
@@ -100,21 +99,13 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-</br>
-![WhatsApp Image 2024-03-07 at 9 27 35 AM](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/2cc2cacc-3996-409f-a4ea-c6f99225c864)
-</br>
+![Untitled](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/67735d3e-5b82-4097-9901-f1d9a99c2c5e)
 ### ii) Display the video
-</br>
-![WhatsApp Image 2024-03-07 at 9 12 38 AM](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/fb1730b6-49b8-4f72-86a2-341f514607d4)
-</br>
+![Untitled](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/5c3c2d4f-2933-4e9e-8962-d3bb3f086d1e)
 ### iii) Display the video by resizing the window
-</br>
-![WhatsApp Image 2024-03-07 at 9 27 36 AM](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/81513cb1-2784-4229-b156-54c68ffddc1a)
-</br>
+![Untitled](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/ad6991ae-8933-4411-8a84-ba6e60868045)
 ### iv) Rotate and display the video
-</br>
-![WhatsApp Image 2024-03-07 at 9 27 37 AM](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/88742b0d-89eb-4dfe-bd26-20022be04611)
-</br>
+![Untitled](https://github.com/Jeevithha/Image_Acqusition-_using_Web_Camera/assets/123623197/1d390733-2dcf-483b-a134-206815cc361c)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV
